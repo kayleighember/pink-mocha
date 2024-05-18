@@ -1,0 +1,21 @@
+{
+  "name": "pink-mocha",
+  "displayName": "Pink Mocha",
+  "description": "Pink Mocha theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Mocha-color-theme.json"
+      }
+    ]
+  }
+}
